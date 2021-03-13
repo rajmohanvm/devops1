@@ -16,6 +16,8 @@
 
 # Version 21.03.10.1543
 
+# version 1 Git
+
 <#
     .SYNOPSIS
         This script contains a mitigation for CVE-2021-26855
